@@ -1,4 +1,4 @@
-##Double Slit Interference Pattern Simulation
+#Double Slit Interference Pattern Simulation
 
 https://interactive-quantum-monte-carlo.onrender.com/
 
