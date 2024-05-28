@@ -52,6 +52,8 @@ def MonteCarlo(a, d, wave_length, l, num_samples):
 # Create the Dash app
 app = Dash(__name__)
 
+server = app.server
+
 #create the sliders
 app.layout = html.Div([
     dcc.Graph(id='interference-graph'),
