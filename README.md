@@ -26,7 +26,7 @@ Diffraction Function
 
 The function calculates the probability distribution of particle positions using the interference pattern formula:
 
- P(x) \propto \left( \cos \left( \frac{\pi d x}{\lambda l} \right) \right)^2 
+ $P(x) \propto \left( \cos \left( \frac{\pi d x}{\lambda l} \right) \right)^2 $
 
 Monte Carlo Simulation
 
